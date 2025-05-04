@@ -1,3 +1,8 @@
+TODO:
+- Revert vless protocol
+- Revert Xray support
+- Translations
+
 # <img width="32" src="assets/icons/qv2ray.png" alt="Qv2ray"/> Qv2ray - For developers. By developers
 
 [![Build for Desktop](https://github.com/Shadowsocks-NET/Qv2ray/actions/workflows/build.yml/badge.svg)](https://github.com/Shadowsocks-NET/Qv2ray/actions/workflows/build.yml)
@@ -44,9 +49,11 @@ files will not be compatible with the original version.
 
 ### Xray
 
-No Such Word In My Dictionary
+~~No Such Word In My Dictionary~~
 
-- 2022-07-19 update: Okay it's now officially a corpse :)
+~~- 2022-07-19 update: Okay it's now officially a corpse :)~~
+
+Will be available. I don't want meaningless disputes.
 
 ## Plugins At A Glance
 
